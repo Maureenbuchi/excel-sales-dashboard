@@ -1,4 +1,4 @@
-# excel-sales-dashboard
+# Excel-Sales-Dashboard
 ## Project Overview
 This project is an Excel-based sales dashboard I built during my Data Analysis training.
 It covers the complete process from data cleaning to visualization, using Excel tools like Pivot Tables, Pivot Charts, and Slicers to generate insights and make the data easier to understand.
