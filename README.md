@@ -5,6 +5,8 @@ It covers the complete process from data cleaning to visualization, using Excel 
 
 This dashboard was created in class with guidance from my tutor, and it represents one of my foundational steps in becoming confident with Excel for analytics.
 
+
+
 ## Project Objective
 
 - To learn how to organize and clean a dataset in Excel
