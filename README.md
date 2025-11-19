@@ -6,6 +6,7 @@ It covers the complete process from data cleaning to visualization, using Excel 
 This dashboard was created in class with guidance from my tutor, and it represents one of my foundational steps in becoming confident with Excel for analytics.
 
 
+![FIRSTDASHBOARD1](https://github.com/user-attachments/assets/fb822aa6-6ab9-4c7f-9e12-84d515d2076d)
 
 ## Project Objective
 
